@@ -2,11 +2,12 @@
 A cool MMO that will be better than all MMO.
 
 ## Badges
-[![CodeFactor](https://www.codefactor.io/repository/github/deannreid/the-super-cool-game/badge)](https://www.codefactor.io/repository/github/deannreid/the-super-cool-game)
+[![CodeFactor](https://www.codefactor.io/repository/github/deannreid/the-super-cool-game/badge)](https://www.codefactor.io/repository/github/deannreid/the-super-cool-game)[![DeepSource](https://app.deepsource.com/gh/deannreid/The-Super-Cool-Game.svg/?label=active+issues&show_trend=true&token=GYN1cB9O7kmCA_6YCAmCrtRX)](https://app.deepsource.com/gh/deannreid/The-Super-Cool-Game/?ref=repository-badge)
+[![DeepSource](https://app.deepsource.com/gh/deannreid/The-Super-Cool-Game.svg/?label=resolved+issues&show_trend=true&token=GYN1cB9O7kmCA_6YCAmCrtRX)](https://app.deepsource.com/gh/deannreid/The-Super-Cool-Game/?ref=repository-badge)
+
 **Master Build** [![Build status](https://ci.appveyor.com/api/projects/status/ejk7ep2txvg0pt0e/branch/main?svg=true)](https://ci.appveyor.com/project/deannreid/the-super-cool-game/branch/main)
 
-[![DeepSource](https://app.deepsource.com/gh/deannreid/The-Super-Cool-Game.svg/?label=active+issues&show_trend=true&token=GYN1cB9O7kmCA_6YCAmCrtRX)](https://app.deepsource.com/gh/deannreid/The-Super-Cool-Game/?ref=repository-badge)
-[![DeepSource](https://app.deepsource.com/gh/deannreid/The-Super-Cool-Game.svg/?label=resolved+issues&show_trend=true&token=GYN1cB9O7kmCA_6YCAmCrtRX)](https://app.deepsource.com/gh/deannreid/The-Super-Cool-Game/?ref=repository-badge)
+
 
 
 ## Documentation
